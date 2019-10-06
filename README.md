@@ -36,3 +36,6 @@ Now you can view the server locally in your browser at http://localhost:8000
    *I can contribute in the development*  
 5. [Bhuvana](https://github.com/bhuvana-guna)
 6. [Meera Sundar](https://github.com/meerasndr)
+7. [Eswari Jayakumar](https://github.com/eswarijayakumar)  
+    **Tech I already know:** *Java and JS Frameworks*  
+   *I can help in both frontend and backend development of this site*  
